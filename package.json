@@ -1,0 +1,16 @@
+{
+  "name": "badbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dream",
+  "license": "ISC",
+  "dependencies": {
+    "@shadowgarden/djs-framebot": "^2.0.4",
+    "discord.js": "^14.15.3",
+    "moment": "^2.30.1"
+  }
+}
